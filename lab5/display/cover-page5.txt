@@ -1,0 +1,34 @@
+CSE132 Standard Cover Page
+
+By submitting this assignment, you certify that you have read, understood,
+and complied with the CSE 132 Collaboration Policy.
+
+You are also certifying that the following information is complete and truthful.
+
+Name:Qian Wu
+Email Address:q.wu@go.wustl.edu
+Lab Section:A
+
+CSE132 Lab 5
+
+Challenge level of this assignment (1 = very easy; 10 = very challenging): 
+Learning value of this assignment (1 = didn't learn anything; 10 = learned a lot): 
+
+Check one of the following:
+
+[ ] I worked on this lab entirely on my own, with help only from the TAs and the instructor.
+
+[ ] I received help from the following people or sources (other than the TAs or instructor).
+
+    List names here:
+    
+    
+[X] I completed this lab using pair programming techniques with the following CSE 132 student.
+
+    Name of partner:Hairong Zhang
+    
+
+
+If there is anything else we should know about your work on this assignment,
+please explain here:
+The top button increases the character by 10, and the bottom one reduces it by 10. The right button inreases the character by 1, and the left button decreases it by 1.

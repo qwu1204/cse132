@@ -1,0 +1,42 @@
+CSE132 Standard Cover Page
+
+By submitting this assignment, you certify that you have read, understood,
+and complied with the CSE 132 Collaboration Policy.
+
+You are also certifying that the following information is complete and truthful.
+
+Name: Qian Wu
+Email Address:q.wu@go.wustl.edu
+Lab Section: A
+
+CSE132 Lab 1
+
+*******NOTE: I missed the first two labs in the first week so my lab 1 is late. I already talked to Professor Chamberlain about this and he said because lab 2 and lab 1 are dependent of each other, as long as I turn in lab 1 before lab 2 is due I should be fine. Thank you.********************************
+
+Challenge level of this assignment (1 = very easy; 10 = very challenging): 5
+Learning value of this assignment (1 = didn't learn anything; 10 = learned a lot): 5
+
+Check one of the following:
+
+[ ] I worked on this lab entirely on my own, with help only from the TAs and the instructor.
+
+[X] I received help from the following people or sources (other than the TAs or instructor).
+
+    List names here: Hairong Zhang
+    
+    
+[X] I completed this lab using pair programming techniques with the following CSE 132 student.
+
+    Name of partner: Hairong Zhang
+    
+
+Record how well (or poorly) the program maintains the timing specification of one reading per second.
+The time interval recorded using the delta method outputs 1000ms, 1001ms, or 1002ms, etc. Which indicates that the time recording is relatively accurate.
+
+Double filterSize and re-examine the timing specification. 
+When we use the delay command, after doubling the filter size from 5 to 10, 1003ms starts occurring, and 1002ms appear more often than 2001ms.
+Therefore, the timing is a little bit inaccurate when we double the filter size.
+When the delta time technique is used, the time specification is much better, and the difference between the two filter sizes isn't as prominent as before. 
+
+The fs10-excel is the excel version of the graph with filter size 10.
+The fs10.jpg is the java version of the graph with filter size 10.
